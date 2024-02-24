@@ -17,11 +17,13 @@
 * _Project Lead:_  Mary Thomas, Ph.D., SDSC HPC/CI Training lead, and Computational Data Scientist in the Data-Enabled Scientific Computing Division.
 * _REHS Students:_
    * TBD
-* _Collaborators/Mentors:_
-   * Christian Garcia, Engineering Scientist Associate (Texas Advanced Computing Center)
+* _SDSC Collaborators/Mentors:_
+   * Paul Hoover (Programmer/Analyst)
    * Martin Kandes, Ph.D (Computational Data Scientist, SDSC)
    * Paul Rodriquez, Ph.D. (Computational Data Scientist, SDSC)
    * Mahidhar Tatineni, Ph.D (User Support Group Lead, SDSC)
+* _External Collaborators/Mentors:_
+   * Christian Garcia, Engineering Scientist Associate (Texas Advanced Computing Center)
    * Joe Stubbs, Ph.D. (Manager, Cloud & Interactive Computing, Texas Advanced Computing Center)
 
   [Back to Top](#top)
