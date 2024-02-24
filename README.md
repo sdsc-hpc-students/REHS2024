@@ -65,9 +65,10 @@ Prior to beginning the REHS program, the selected student team members will be p
 4.	https://www.tacc.utexas.edu/home 
 5.	The Jupyter Notebook Project Website, https://jupyter.org/
 6.	Zonca, A. and R.S. Sinkovits, Deploying Jupyter Notebooks at scale on XSEDE for Science Gateways and workshops. Available at: https://zonca.github.io/docs/pearc18_slides_zonca_sinkovits.pdf
-7.	https://github.com/sdsc-hpc-students/REHS2023
-8.	https://github.com/sdsc-hpc-students/REHS2022
-![image](https://github.com/sdsc-hpc-students/REHS2024/assets/14170808/1edfe524-e777-4e4d-b8c6-ce2d1613db2c)
+7.	Samar, S., Chen, M., Garcia, C., Karpinski, J., Lange, M., Ray, M., … Thomas, M. (2023). Development of Authenticated Clients and Applications for ICICLE CI Services. ArXiv, 1–8. Retrieved from https://arxiv.org/abs/2304.11086
+8.	https://github.com/sdsc-hpc-students/REHS2024
+9.	https://github.com/sdsc-hpc-students/REHS2023
+10.	https://github.com/sdsc-hpc-students/REHS2022
 
 
 [Back to Top](#top)
