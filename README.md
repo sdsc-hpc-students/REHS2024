@@ -1,4 +1,4 @@
-# 2024 Research Experience for High School Students Project 
+# 2024 SDSC Research Experience for High School Students Project 
 ## Project Title: Developing Interactive Jupyter Notebooks to run on the “AI institute for Intelligent Cyberinfrastructure with Computational Learning in the Environment” (ICICLE) project.
 
 **Part of the 2023 Research Experience for High School Students Program:**  https://education.sdsc.edu/studenttech/rehs/
