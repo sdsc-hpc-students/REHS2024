@@ -45,10 +45,17 @@ The National Science Foundation funded AI institute for Intelligent Cyberinfrast
 Scientists using HPC Systems working with interactive HPC tools such as Jupyter notebooks to implement computational and data analysis functions and workflows [5]. Jupyter notebooks are web applications that allow you to create and share documents that contain live code, equations, visualizations and narrative text. These notebooks part of a general trend in research computing away from command-line style interfaces and towards browser-based and graphical interfaces. Jupyter notebooks are especially useful for interactivity: the development, testing, and exploration of data sets or as an instructional resource [6]. Users working interactively expect a timely response, both for initial application startup and during the course of a session.
 
 The _goals_ of this research project will be to: 
-1. Test and develop Jupyter Notebooks that run software components developed by the ICICLE project
-2. Learn the basics of  Jupyter notebooks, AI, and Knowledge Graphs. 
+1. Learn the basics of High Performance Computing on Expanse, using Jupyter notebooks
+2. Learn the basics of AI models running in Jupyter notebooks on Expanse
+3. Contribute Jupyter Notebooks to the ICICLE Model Commons Collection
 
-The _research components_ will be to: (1) contribute to the body of knowledge needed for hosting live, dynamic, interactive services that interface to HPC systems; and (2) to develop interactive notebooks that will run on the ICICLE system. Students will also have the opportunity to publish their results on an open share site such as arXiv.org (see REHS22 publications [7]). Current project details and examples from previous projects can be found in [8], [9], and [10].
+
+The _research components_ will be to: 
+1. Contribute to the body of knowledge needed for hosting live, dynamic, interactive services that interface to HPC systems
+2. Develop interactive AI notebooks that run on Expanse and potentially the ICICLE system.
+3. Students will optionally have the opportunity to publish their results on an open share site such as arXiv.org (see REHS22 publications [7]).
+
+Current project details and examples from previous projects can be found in [8], [9], and [10].
 
 
 ### Description of the plan to integrate the student researcher into the group's activities: 
