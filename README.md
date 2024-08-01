@@ -16,14 +16,21 @@
 ## Participants  <a name="parts"></a>
 * _Project Lead:_  Mary Thomas, Ph.D., SDSC HPC/CI Training lead, and Computational Data Scientist in the Data-Enabled Scientific Computing Division.
 * _REHS Students:_
-   * TBD
+   * ParJupNB-Expanse Collection,	David	Bond
+   * ParJupNB-AI, Anusha	Khobare
+   * ParJupNB-AI, Ronit	Thomas
+   * ParJupNB-AI, Ryan	Leschensky
+   * ICICLE Training Catalog, Soham	Kamat
 * _SDSC Collaborators/Mentors:_
-   * Paul Hoover (Programmer/Analyst)
    * Martin Kandes, Ph.D (Computational Data Scientist, SDSC)
+   * Peter Rose, Ph.D. (Director of the Structural Bioinformatics Laboratory, SDSC(
    * Paul Rodriquez, Ph.D. (Computational Data Scientist, SDSC)
    * Mahidhar Tatineni, Ph.D (User Support Group Lead, SDSC)
 * _External Collaborators/Mentors:_
    * Christian Garcia, Engineering Scientist Associate (Texas Advanced Computing Center)
+   * Carlos Guzman, ICICLE project, Ohio State University
+   * David Lee, Senior, XXX High School
+   * Sahil Samar, Undergraduate, Georgia Tech
    * Joe Stubbs, Ph.D. (Manager, Cloud & Interactive Computing, Texas Advanced Computing Center)
 
   [Back to Top](#top)
@@ -37,7 +44,11 @@ The National Science Foundation funded AI institute for Intelligent Cyberinfrast
 
 Scientists using HPC Systems working with interactive HPC tools such as Jupyter notebooks to implement computational and data analysis functions and workflows [5]. Jupyter notebooks are web applications that allow you to create and share documents that contain live code, equations, visualizations and narrative text. These notebooks part of a general trend in research computing away from command-line style interfaces and towards browser-based and graphical interfaces. Jupyter notebooks are especially useful for interactivity: the development, testing, and exploration of data sets or as an instructional resource [6]. Users working interactively expect a timely response, both for initial application startup and during the course of a session.
 
-The _goals_ of this research project will be to: (1) test and develop Jupyter Notebooks that run software components developed by the ICICLE project; and (2) learn the basics of  Jupyter notebooks, AI, and Knowledge Graphs. The _research components_ will be to: (1) contribute to the body of knowledge needed for hosting live, dynamic, interactive services that interface to HPC systems; and (2) to develop interactive notebooks that will run on the ICICLE system. Students will also have the opportunity to publish their results on an open share site such as arXiv.org (see REHS22 publications [7]). Current project details and examples from previous projects can be found in [8], [9], and [10].
+The _goals_ of this research project will be to: 
+1 Test and develop Jupyter Notebooks that run software components developed by the ICICLE project
+2 Learn the basics of  Jupyter notebooks, AI, and Knowledge Graphs. 
+
+The _research components_ will be to: (1) contribute to the body of knowledge needed for hosting live, dynamic, interactive services that interface to HPC systems; and (2) to develop interactive notebooks that will run on the ICICLE system. Students will also have the opportunity to publish their results on an open share site such as arXiv.org (see REHS22 publications [7]). Current project details and examples from previous projects can be found in [8], [9], and [10].
 
 
 ### Description of the plan to integrate the student researcher into the group's activities: 
